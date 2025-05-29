@@ -55,7 +55,7 @@ social-network-links:
 #facebook: deanattali
   github: nellyngz95
  # twitter: daattali
-  patreon: DeanAttali
+# patreon: DeanAttali
   youtube: "@nellyngz"
 #whatsapp: 15551212
 #  medium: yourname
@@ -97,12 +97,12 @@ share-links-active:
  # twitter: true
  # facebook: true
   linkedin: true
-  vk: false
-  reddit: false
+ # vk: false
+ # reddit: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "nellyngz.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
