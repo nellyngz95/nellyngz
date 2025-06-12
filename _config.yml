@@ -22,9 +22,8 @@ author: Nelly Garcia
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Youtube Channel: "https://www.youtube.com/@nellyngz"
+  #Author's home: ""
 
 ################
 # --- Logo --- #
