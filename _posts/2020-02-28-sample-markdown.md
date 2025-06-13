@@ -1,19 +1,14 @@
 ---
 layout: post
 title: Portfolio
-subtitle: There's lots to create!
-gh-repo:
-gh-badge: 
-tags: [test]
-comments: true
-mathjax: true
+subtitle: Personal portfolio
+cover-img: /assets/img/PublicationBanner.jpg
+thumbnail-img: /assets/img/pub.png
+share-img: /assets/img/pub.jpg
+tags: [Papers, Datasets, Workshops ]
 author: Nelly Garcia
 ---
 
-{: .box-success}
-
-
-**Here is some bold text**
 
 ## Here is a secondary heading
 
@@ -39,32 +34,6 @@ It can also be centered!
 
 ![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
 
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
 
 ## Boxes
 You can add notification, warning and error boxes like this:

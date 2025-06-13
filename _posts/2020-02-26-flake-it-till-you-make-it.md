@@ -25,4 +25,4 @@ author: Nelly Garcia
 
 
 {: .box-note}
-**Note:** .
+**Note:**  I've been doing side projects. 
