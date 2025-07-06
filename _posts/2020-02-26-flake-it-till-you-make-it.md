@@ -30,7 +30,8 @@ design and music in film drama" ](https://aes2.org/publications/elibrary/)- AES 
 2. (https://audio.dev/archive/adc23-london/schedule23/)- ADC 2023 (Online)
 # Datasets:
 1. [6KSFX](https://arxiv.org/abs/2501.17198)- ArXiV.
-
+# Challenges:
+1. [Querying by Vocal Imitation](https://qvim-aes.github.io)- AES  AIMLA. co-organized with ProSound Effects and Johannes Kepler University of Linz.
 
 {: .box-note}
 **Note:**  I've been doing side projects. 
