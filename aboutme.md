@@ -10,7 +10,7 @@ My passion lies in storytelling through sound — whether in cinema, TV, radio, 
 
 For me, it’s simple: great stories stick with you because of the words and the sounds. I want to create those unforgettable audio moments — the kind people remember, and talk about, long after they hear them.
 
-[Check out my CV here.](assets/files/NellyGarcia_CV.pdf)
+[Check out my CV here.](https://drive.google.com/file/d/1GCPW6lHandLn77KUGbZ88OpQZgi3mbd6/view?usp=sharing)
 
 
 

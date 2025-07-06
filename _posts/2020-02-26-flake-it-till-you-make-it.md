@@ -34,3 +34,6 @@ design and music in film drama" ](https://aes2.org/publications/elibrary/)- AES 
 
 {: .box-note}
 **Note:**  I've been doing side projects. 
+Work in process: EMORSION - The project’s name combines EMO(Emotion) and RSION (Immersion), reflecting its core aim: to investigate how different audio strategies influence the storytelling impact.
+
+Check an introductory video: [Watch here](https://drive.google.com/file/d/1nO2TJBxl0_fUaLZ2QbLq4VqHPTivKSoC/view?usp=sharing)
